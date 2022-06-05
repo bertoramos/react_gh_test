@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.1eaf898c.css","mappings":"AACA,GACI,aACJ,CAEA,GACI,aACJ,CAEA,GACI,aACJ","sources":["index.css"],"sourcesContent":["\r\nh1 {\r\n    color: rgb(100, 100, 255);\r\n}\r\n\r\nh2 {\r\n    color: rgb(200, 100, 100)\r\n}\r\n\r\nh3 {\r\n    color: rgb(100, 100, 100)\r\n}\r\n"],"names":[],"sourceRoot":""}
